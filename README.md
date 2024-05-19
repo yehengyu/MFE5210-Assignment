@@ -17,4 +17,6 @@
 
 ### A.详见各个py文件
 ### B.只借鉴了国信的一篇研报
-### C.研报的相关矩阵、做出来的因子相关矩阵如下：
+### C.研报的相关矩阵、复现的因子相关矩阵如下：
+![研报因子相关性矩阵](https://github.com/yehengyu/MFE5210-Assignment/blob/main/pic/%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B00.png?raw=true)
+![复现因子相关性矩阵](https://github.com/yehengyu/MFE5210-Assignment/blob/main/pic/%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.png?raw=true)
